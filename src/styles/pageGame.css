@@ -1,0 +1,53 @@
+.mainLogo img {
+  margin-top: 0.938rem;
+  width: 5.625rem;
+  margin: auto;
+}
+
+.mainImg img {
+  width: 22.75rem;
+  margin: auto;
+}
+
+#trocarPagina {
+  background-color: var(--secondary-color);
+  color: var(--color-logo);
+  width: 18.75rem;
+  height: 3.5rem;
+  border-radius: 27px;
+  z-index: 4;
+}
+
+#pageGame {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  gap: 5.125rem;
+  margin: auto;
+  background-color: var(--color-bg);
+  padding: 2.438rem 0;
+  align-items: center;
+}
+
+#infoRalph h1 {
+  font-size: x-large;
+  color: var(--secondary-color); /* Usando a cor laranja para o título */
+}
+
+#infoRalph h2,
+#infoRalph h2:nth-child(2) {
+  font-size: medium;
+  margin-top: 0.5rem;
+  color: var(
+    --secondary-color
+  ); /* Usando a cor laranja para subtítulos também */
+}
+
+footer p {
+  font-size: xx-small;
+  color: var(--color-logo); /* Usando a cor marrom para o rodapé */
+}
+
+#audio {
+  display: none;
+}

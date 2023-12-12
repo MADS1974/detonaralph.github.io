@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Press+Start+2P&display=swap");
+@import url("./pages.css");
+@import url("./reset.css");
+
+:root {
+  --color-bg: #fafafa; /* Cor de fundo clara */
+  --font-primary: #333; /* Cor de texto escura */
+  --secondary-color: #ffa500; /* Cor laranja para a blusa */
+  --color-logo: #8b4513; /* Cor marrom para a calça */
+}
+
+body {
+  display: flex;
+  justify-content: center;
+
+  background-color: var(--color-bg);
+  color: var(--font-primary);
+  margin: 0 1.438rem 1.25rem;
+}
+.wrap {
+  display: flex;
+  flex-direction: column;
+}
+.pages {
+  margin: auto;
+}
+
+@media screen and (min-width: 240px) and (max-width: 3480px) {
+  .pages,
+  .page1,
+  .page2 {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    max-width: 540px;
+
+    align-items: center;
+    position: absolute;
+    padding: 2.438rem 0;
+  }
+}
+
+#box1,
+#box2,
+#box3,
+#box4,
+#box5,
+#box6,
+#box7,
+#box8,
+#box9 {
+  transition: 150ms ease-in-out;
+}
+
+.wreck:hover {
+  transform: scale(110%);
+  background-image: url("../imgs/ralph-punch.gif");
+  background-size: cover;
+  background-position: center center;
+  transform: scale(120%);
+  border-radius: 50%;
+  box-shadow: 0px 0px 17px 6px #000;
+
+  /* Ajustes de qualidade da imagem */
+  filter: brightness(1.5) saturate(1) blur(0px);
+}

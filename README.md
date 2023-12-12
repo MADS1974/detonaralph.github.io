@@ -1,26 +1,31 @@
-<a name="readme-top"></a>
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/mads1974_detona-ralph-by-mads1974-o-projeto-detona-activity-7140194724983857154-FO3x?utm_source=share&utm_medium=member_desktop">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto"> 🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/9fc59800-279b-462d-9f12-92ea3bf5697e"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/9fc59800-279b-462d-9f12-92ea3bf5697e.svg" alt="wakatime"></a>
+</p>
 
 # Detona Ralph by Mads1974
 
-<div align="center">
-  <a href="https://www.figma.com/file/3drzJuNX12azkBNFzed6uH/Ralph-Game-Project?type=design&node-id=34-90&mode=design">
-    <img src="./src/imgs/preview/Cover.png" alt="Logo">
-  </a>
-</div>
-
 ### **Descrição Geral**
 
-O projeto "Detona Ralph" é um jogo de ação baseado na popular franquia de animação "Detona Ralph". Desenvolvido seguindo as orientações do especialista Felipe Silva no bootcamp da DIO - Ifood Games, este jogo desafia os jogadores a testar sua rapidez e habilidades de pontaria enquanto Ralph se move entre as janelas antes que o tempo acabe.
+O projeto "Detona Ralph" é um jogo de ação baseado na popular franquia de animação "Detona Ralph". Desenvolvido seguindo as orientações do especialista [Felipe Silva](https://www.linkedin.com/in/felipe-exe/) no bootcamp da DIO - Ifood Games, este jogo desafia os jogadores a testar sua rapidez e habilidades de pontaria enquanto Ralph se move entre as janelas antes que o tempo acabe.
 
 **Tecnologias Utilizadas**
 
 Este projeto foi construído utilizando uma combinação de tecnologias e linguagens, incluindo:
 
-- **HTML e CSS:** A estrutura básica da página da web e a estilização foram desenvolvidas utilizando HTML e CSS para criar uma interface atraente e interativa.
-
-- **JavaScript:** A lógica do jogo e a interatividade foram implementadas com JavaScript, garantindo que as caixas se movam aleatoriamente, controlando o tempo e a pontuação do jogador.
-
-- **Biblioteca jQuery:** A biblioteca jQuery foi incorporada ao projeto para auxiliar no desenvolvimento de funcionalidades interativas e dinâmicas na interface do jogo.
+* **HTML e CSS:** A estrutura básica da página da web e a estilização foram desenvolvidas utilizando HTML e CSS para criar uma interface atraente e interativa.
+  
+* **JavaScript:** A lógica do jogo e a interatividade foram implementadas com JavaScript, garantindo que as caixas se movam aleatoriamente, controlando o tempo e a pontuação do jogador.
+  
+* **Biblioteca jQuery:** A biblioteca jQuery foi incorporada ao projeto para auxiliar no desenvolvimento de funcionalidades interativas e dinâmicas na interface do jogo.
+  
 
 ![HTML5][HTML5.com] ![CSS3][CSS3.com] ![JavaScript][js.com] [![JQuery][JQuery.com]][JQuery-url]
 
@@ -34,43 +39,23 @@ O projeto "Detona Ralph" é uma demonstração cativante de habilidades de desen
 
 <!-- LICENSE -->
 
-<!-- ## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<!-- ## LicenseDistributed under the MIT License. See `LICENSE.txt` for more information.<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTACT -->
 
 ## O que eu implementei?
 
-Seguindo os conceitos das aulas na DIO, recriei o projeto usado no repositório:<br><a href="https://github.com/Frankdias92/Primeiro-Game-Detona-Ralph" target="_blank">   
+Seguindo os conceitos das aulas na DIO, recriei o projeto usado no repositório do [Github Frank Dias](https://github.com/Frankdias92/Primeiro-Game-Detona-Ralph),
+modifiquei o layout, inseri funcionalidades extras ao personagem Ralph na tela inicial, acrescentei som ao jogo para melhorar experiência com o jogador, acesse o jogo e divirta-se.
 
-modifiquei o layout, inseri o Ralph na tela inicial, acrescentei som ao jogo para  melhorar experiência  com o jogador
-
-Abaixo seguem
-
-Project Link:<br><a href="https://github.com/Frankdias92/Primeiro-Game-Detona-Ralph" target="_blank"><img src="https://img.shields.io/badge/-Game%20Detona%20Ralph-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Agradecimentos
 
-<img src="https://avatars.githubusercontent.com/u/730492?v=4" alt="GitHub" style="width:40px; height:40px;"/> ![Venilton] 
 
-<img src="https://avatars.githubusercontent.com/u/2331058?v=4" alt="GitHub" style="width:40px; height:40px;"/> ![Rafa Skoberg] 
+[![DIO][DIO.com]][DIO.url] 
 
-<img src="https://avatars.githubusercontent.com/u/97471199?v=4" alt="GitHub" style="width:40px; height:40px;"/> ![Elidiana Andrade] 
-
-<img src="https://avatars.githubusercontent.com/u/55519539?v=4" alt="GitHub" style="width:40px; height:40px;"/> ![Michele Ambrosio]
-
-<img src="https://avatars.githubusercontent.com/u/3266640?v=4" alt="GitHub" style="width:40px; height:40px;"/> ![Renan Johannsen] 
-
-[![DIO][DIO.com]][DIO.url] [![Template][Template.com]][Template.url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -94,7 +79,7 @@ Project Link:<br><a href="https://github.com/Frankdias92/Primeiro-Game-Detona-Ra
 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
 
 [Renan Johannsen]: https://img.shields.io/badge/Renan%20Johannsen-Software%20Engineer%20Lead-fff?style=for-the-badge
 
@@ -112,4 +97,4 @@ Project Link:<br><a href="https://github.com/Frankdias92/Primeiro-Game-Detona-Ra
 
 [DIO.com]: https://img.shields.io/badge/DIO%20--%20digital%20innovation%20one-058?style=for-the-badge&
 
-[DIO.url]: https://web.dio.me/home
+[DIO.url]: https://web.dio.me/hom

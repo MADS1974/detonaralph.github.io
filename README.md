@@ -1,9 +1,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/posts/mads1974_detona-ralph-by-mads1974-o-projeto-detona-activity-7140194724983857154-FO3x?utm_source=share&utm_medium=member_desktop">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto"> 🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">🚀 Tecnologias</a>
+  <a href="https://mads1974.github.io/detonaralph.github.io/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/posts/mads1974_detona-ralph-by-mads1974-o-projeto-detona-activity-7140194724983857154-FO3x?utm_source=share&utm_medium=member_desktop"> 🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://jquery.com/">🚀 Tecnologias</a>
 </p>
 
 <p align="center">
